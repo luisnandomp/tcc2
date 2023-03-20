@@ -27,7 +27,8 @@ body{
 
 .nav-item  {
     margin-left: 170px;
-    font-size: 15x;
+    font-size: 23px;
+    
 }
 
 body {
@@ -35,8 +36,10 @@ body {
 }
 
 .btn-primary{
-    background-color: #ff8c00;
+    background-color:#ff7e00;
    height: 55px;
+   border-color:#fff ;
+   font-family: 20px;
 
 }
 
@@ -57,13 +60,14 @@ body {
 }
 
 li.nav-item a.nav-link:hover {
-    font: 20px normal;
+    font: 28px normal;
     color: rgb(235, 131, 12);
 }
 
-
-
-
+.text-center{
+   font-family: Helvetica ;
+    font-size: 25px;
+}
 
 
 
